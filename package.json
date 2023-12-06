@@ -30,14 +30,14 @@
     "lodash": "^4.17.15",
     "npm": "^6.10.1",
     "parsefbp": "^0.3.0",
-    "snyk": "^1.197.0"
+    "snyk": "^1.230.7"
   },
   "main": "index.js",
   "devDependencies": {
     "chai": "4.2.0",
     "eslint": "6.2.1",
     "eslint-config-defaults": "9.0.0",
-    "mocha": "6.2.0",
+    "mocha": "8.3.0",
     "ws": "7.1.2",
     "dummy-module": "*"
   },
